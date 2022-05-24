@@ -35,7 +35,7 @@ console.log(
     resultado média de três: ${mediadetres(3,6,9).toFixed(2)}
     resultado porcentagem: ${porcentagem(300,50)}
     resultado porcentagem: ${porcentagem2(300,50)}%
-    resultado raíz quadrada: ${raiz(16,)}
+    resultado raíz quadrada: ${raiz(16)}
 
     `)
 

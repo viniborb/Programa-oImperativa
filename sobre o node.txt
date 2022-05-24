@@ -1,1 +1,3 @@
 nunca dar apenas o comando node
+let readlineSync = require('../../lib/readline-sync.js'); importação lib
+
