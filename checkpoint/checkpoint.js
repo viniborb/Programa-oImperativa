@@ -86,5 +86,6 @@ function microondas(prato,tempo){
    }
 }
   microondas(3,20)
+  // altere em prmeiro valor comida e em segundo tempo para executar a função como desejar
    
    
